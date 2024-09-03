@@ -1,0 +1,29 @@
+#vader{
+   font-size: larger; 
+}
+
+#luke{
+    font-style: italic;
+}
+
+.empire li {
+    background-color: red;
+}
+
+.rebel li{
+    background-color: blue;
+}
+
+.soldier{
+    border: 2px dotted yellow;
+    letter-spacing:2px ;
+}
+
+.support{
+    text-align: center;
+}
+
+.spaceship{
+   text-transform: uppercase;
+   
+}
